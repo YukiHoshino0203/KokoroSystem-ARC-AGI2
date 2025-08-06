@@ -1,5 +1,8 @@
 # KokoroSystem ARC-AGI-2: Solar + Spider Stable
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16756179.svg)](https://doi.org/10.5281/zenodo.16756179)
+
+
 **Achieved 64.17% accuracy on ARC-AGI-2 evaluation set (120 tasks) in ~14.46s.**  
 This implementation combines two generative transformation frameworks from the KokoroSystem project, developed by **Yuki Hoshino** (Japan):
 
@@ -27,7 +30,7 @@ This implementation combines two generative transformation frameworks from the K
 **Position:**  
 This score is among the top-tier results for ARC-AGI-2 with a *pure rule-based general algorithm*, without task-specific tuning. Achieved independently by Yuki Hoshino.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16756179.svg)](https://doi.org/10.5281/zenodo.16756179)
+
 
 ---
 
