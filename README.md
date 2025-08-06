@@ -27,6 +27,8 @@ This implementation combines two generative transformation frameworks from the K
 **Position:**  
 This score is among the top-tier results for ARC-AGI-2 with a *pure rule-based general algorithm*, without task-specific tuning. Achieved independently by Yuki Hoshino.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16756179.svg)](https://doi.org/10.5281/zenodo.16756179)
+
 ---
 
 ## Requirements
